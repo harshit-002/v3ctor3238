@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @v3ctor3238
-- 👀 I’m interested in Coding, Robotics
+- 👀 I’m interested in Coding, Photography
 - 🌱 I’m currently learning DSA C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email
